@@ -5,6 +5,8 @@ Code used to manipulate fetched tweets and build the scoring model used for the 
 
 NOTE: This code was written in conjunction with an iPhone application used to do realtime tweet sentiment analysis based on keyword input. The code for that project can also be found in my public repositories underneath Twitter-Sentiment-Analyzer.
 
+https://github.com/jtloftus/Twitter-Sentiment-Analyzer
+
 Components
 ----------
 
